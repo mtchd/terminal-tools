@@ -28,7 +28,7 @@ What AWS account you are logged into
 Node version you are using for repo
 And over 9000 more things...
 
-[Powerline9k](https://gist.github.com/mtchd/a38b76d7b19339a233cdaf31f559bb8a#file-powerline9k-png)
+![Powerline9k](https://gist.github.com/mtchd/a38b76d7b19339a233cdaf31f559bb8a#file-powerline9k-png)
 
  Check out Dave Greig‌'s custom repo for a timer on you aws login  here: https://git.realestate.com.au/dave-greig/aws-timer
 
@@ -64,7 +64,6 @@ Thanks to Matilda Stevenson‌ for pointing me to this one.
 
 This gives auto-suggestions based on your command history, which can be completed with the right arrow key. Tab completion still works as expected as well.
 
-
 ## diff-so-fancy
 
 Justin Lam‌ with the recommendation on this one.
@@ -94,4 +93,3 @@ fortune | cowsay
 the last thing in your `.zshrc` or `.bash_profile` or whatever you use:
 
 Voila! You now have a friendly cow feeding you quotes when you open your terminal!
-
