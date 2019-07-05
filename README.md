@@ -46,11 +46,15 @@ Juan Ojeda‌ recommended this one to me.
 
 It's a magnificent app which corrects your previous console command. I've got it shortcutted to `fk` instead, but the original `fuck` still works.
 
+![thefuck](thefk.png)
+
 ## SCM Breeze
 
 Thanks to Paolo Napolitano‌ for showing me this one.
 
 SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git. It integrates with your shell to give you numbered file shortcuts, a repository index with tab completion, and many other useful features.
+
+![scm-breeze](scm-breeze.png)
 
 ## Bat
 
