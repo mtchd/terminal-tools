@@ -28,7 +28,7 @@ What AWS account you are logged into
 Node version you are using for repo
 And over 9000 more things...
 
-![Powerline9k](https://gist.github.com/mtchd/a38b76d7b19339a233cdaf31f559bb8a#file-powerline9k-png)
+![Powerline9k](powerline9k.png)
 
  Check out Dave Greig‌'s custom repo for a timer on you aws login  here: https://git.realestate.com.au/dave-greig/aws-timer
 
