@@ -46,7 +46,7 @@ Juan Ojeda‌ recommended this one to me.
 
 It's a magnificent app which corrects your previous console command. I've got it shortcutted to `fk` instead, but the original `fuck` still works.
 
-![thefuck](thefk.png)
+![thefuck](images/thefk.png)
 
 ## SCM Breeze
 
@@ -54,7 +54,7 @@ Thanks to Paolo Napolitano‌ for showing me this one.
 
 SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git. It integrates with your shell to give you numbered file shortcuts, a repository index with tab completion, and many other useful features.
 
-![scm-breeze](scm-breeze.png)
+![scm breeze](images/scm-breeze.png)
 
 ## Bat
 
@@ -62,11 +62,15 @@ Thanks to Justin Lam‌ for this one!
 
 It's cat but better:
 
+![bat](images/bat.png)
+
 ## zsh-autosuggestions
 
 Thanks to Matilda Stevenson‌ for pointing me to this one.
 
 This gives auto-suggestions based on your command history, which can be completed with the right arrow key. Tab completion still works as expected as well.
+
+![zsh autosuggestions](images/zsh-autosuggestions.png)
 
 ## diff-so-fancy
 
@@ -75,6 +79,8 @@ Justin Lam‌ with the recommendation on this one.
 diff-so-fancy strives to make your git diff's human readable instead of machine readable. This helps improve code quality and help you spot defects faster.
 
 Vanilla git diff vs git and diff-so-fancy:
+
+![diff so fancy](images/diff-so-fancy.png)
 
 ## Cowsay + Fortune
 
